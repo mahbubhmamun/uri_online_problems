@@ -2,7 +2,7 @@ package problems;
 
 import java.util.Scanner;
 
-public class Problem10015 {
+public class Problem1015 {
 	static Scanner sc = new Scanner (System.in);
 	public static void main(String[] args) {
 		double x1 = sc.nextDouble();
